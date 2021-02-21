@@ -1,7 +1,7 @@
-
+*.jar
 *.xml
 .idea/*
 *.class
-*.jar
+*.kotlin_module
 *.properties
 *.lst
